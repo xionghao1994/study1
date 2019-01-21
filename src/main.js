@@ -2,7 +2,7 @@ import Vue from 'vue'
 import './cube-ui'
 import App from './App.vue'
 import router from './router'
-
+import './common/stylus/index.styl'
 // import axios from 'axios';
 // baseURL基地址
 // axios.defaults.baseURL = "http://localhost:8080/api/";
